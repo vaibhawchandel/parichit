@@ -1,0 +1,8 @@
+#summary About Hindi, Punjabi and Bengali Scripts
+#labels Featured
+
+= Shirorekha =
+
+Devanagarai, Bengali and Gurmukhi scripts are written in a way where each word is marked by a line above it called as *Shirorekha*. This connectc all the letters in a word and so segmetation had to be done before the scanned is passed on to the recognizer. 
+
+A Shirorekha segmenter will be made available on this project soon. 
